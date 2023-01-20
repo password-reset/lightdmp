@@ -1,0 +1,3 @@
+generate-core-file /tmp/core_file
+q
+y
